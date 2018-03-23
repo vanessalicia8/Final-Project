@@ -1,25 +1,17 @@
-## Welcome to GitHub Pages
+## Final Project website
 
-You can use the [editor on GitHub](https://github.com/vanessalicia8/Final-Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Introduction
+This is a computer graphics project focusing on scene layout and skyboxes in order to create a 3-D world for users to view. The goal was to create an island landscape where there are a few small islands all around, some containing little trees. The main goal was to implement a skybox and to attempt generating terrain with heightmaps. However, generating heightmaps became complicated and was not gotten to. Instead, different terrain-like objects were loaded in and textured.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# References
 
-# Header 1
-## Header 2
-### Header 3
+- terrain and rocks/mountains: https://free3d.com
+- trees: https://poly.google.com/view/fCT73jIf5jN
+- skybox texture: https://opengameart.org/content/sky-box-sunny-day
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
